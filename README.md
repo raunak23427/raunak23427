@@ -28,8 +28,9 @@ I specialize in full-stack AI product development, Large Language Models (LLMs),
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raunak23427&show_icons=true&theme=transparent&hide_border=true&title_color=1F6FEB&text_color=777&icon_color=1F6FEB" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raunak23427&layout=compact&theme=transparent&hide_border=true&title_color=1F6FEB&text_color=777" width="48%" alt="Top Languages"/>
+  <h3>📊 GitHub Activity & Languages</h3>
+  <p>Primary Languages: <b>Python • C++ • Java • SQL</b></p>
+  <p>Focus Areas: <b>Generative AI • Data Pipelines • API Integrations</b></p>
 </div>
 
 <br/>
@@ -39,15 +40,14 @@ I specialize in full-stack AI product development, Large Language Models (LLMs),
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/raunak23427/HindiGPT">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=raunak23427&repo=HindiGPT&theme=transparent&hide_border=false&title_color=1F6FEB&text_color=777&icon_color=1F6FEB" width="100%" alt="HindiGPT Project"/>
-</a>
+  <h4><a href="https://github.com/raunak23427/HindiGPT">HindiGPT</a></h4>
+  <p>A custom Generative AI & LLM built from scratch in PyTorch for the Hindi language. Features Custom Causal Multi-Head Attention and robust text processing pipelines.</p>
+  <p>🟢 <b>Python</b> &nbsp; | &nbsp; 🧠 <b>PyTorch / GenAI</b></p>
 </td>
 <td width="50%" valign="top">
-<!-- Placeholder for your next big project -->
-<a href="https://github.com/raunak23427">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=raunak23427&repo=raunak23427&theme=transparent&hide_border=false&title_color=1F6FEB&text_color=777&icon_color=1F6FEB" width="100%" alt="Next Project"/>
-</a>
+  <h4><a href="https://github.com/raunak23427">AI Pipeline Architecture (Upcoming)</a></h4>
+  <p>End-to-end MLOps pipeline for scalable LLM deployment, integrating continuous training with robust data processing.</p>
+  <p>🔵 <b>System Design</b> &nbsp; | &nbsp; ⚙️ <b>MLOps</b></p>
 </td>
 </tr>
 </table>
