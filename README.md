@@ -45,9 +45,9 @@ I specialize in full-stack AI product development, Large Language Models (LLMs),
   <p>🟢 <b>Python</b> &nbsp; | &nbsp; 🧠 <b>PyTorch / GenAI</b></p>
 </td>
 <td width="50%" valign="top">
-  <h4><a href="https://github.com/raunak23427">AI Pipeline Architecture (Upcoming)</a></h4>
-  <p>End-to-end MLOps pipeline for scalable LLM deployment, integrating continuous training with robust data processing.</p>
-  <p>🔵 <b>System Design</b> &nbsp; | &nbsp; ⚙️ <b>MLOps</b></p>
+  <h4><a href="https://github.com/raunak23427/NowOnCampus">NowOnCampus</a></h4>
+  <p>A comprehensive full-stack event management platform built with Next.js, Prisma, and MySQL. Features secure OTP login and smart event registrations.</p>
+  <p>⚛️ <b>Next.js / React</b> &nbsp; | &nbsp; 🗄️ <b>Prisma / MySQL</b></p>
 </td>
 </tr>
 </table>
